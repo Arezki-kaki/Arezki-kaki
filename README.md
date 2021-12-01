@@ -7,8 +7,8 @@
 ## 🙋‍♂️ About Me 
 
 
-[<img align="left" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.svg">](https://github.com/lowlighter/metrics)
-<!-- [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg) -->
+<!-- [<img align="left" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.svg">](https://github.com/lowlighter/metrics) -->
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 <!-- [<img align="right" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.personal.anilist.svg">](https://github.com/lowlighter/metrics) -->
 
 <!-- [<img align="left" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.personal.achievements.svg">](https://github.com/lowlighter/metrics) -->
