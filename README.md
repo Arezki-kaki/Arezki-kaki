@@ -14,7 +14,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://)** -->
 
-- 📫 How to reach me **ait_darna_arezki@outlook.fr**
+- 📫 How to reach me : ait_darna_arezki@outlook.fr
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
