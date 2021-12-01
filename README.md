@@ -6,6 +6,17 @@
 
 ## 🙋‍♂️ About Me 
 
+
+[<img align="left" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.svg">](https://github.com/lowlighter/metrics)
+[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
+[<img align="right" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.personal.anilist.svg">](https://github.com/lowlighter/metrics)
+
+[<img align="left" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.personal.achievements.svg">](https://github.com/lowlighter/metrics)
+[<img align="right" width="390" alt="🦑" src="https://github.com/lowlighter/lowlighter/blob/master/metrics.personal.sponsors.svg">](https://github.com/lowlighter/metrics)
+
+
+
+
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
 - 🌱 I’m currently learning **JS, ReactJS, node,Tailwind.**
