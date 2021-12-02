@@ -7,14 +7,7 @@
 <!-- <h3 align="center">I'm a passionate Developper langages  </h3> -->
 
 
-## 🙋‍♂️ About Me 
-
-
-
-[<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:Arezki-kaki?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
-
-
-
+## 🙋‍♂️ About Me [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:Arezki-kaki?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 
 <!-- - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)** -->
 
