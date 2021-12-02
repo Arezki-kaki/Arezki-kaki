@@ -1,4 +1,4 @@
-<a href="#"><img width="70%" height="400" src="https://pic.clubic.com/v1/images/1709824/raw" height="175px"/></a>
+<a href="#"><img width="70%" height="350" src="https://pic.clubic.com/v1/images/1709824/raw"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arezki
 <img width="100" src="https://weather-icon.journeyad.repl.co/@paris?v=1" align="center">
